@@ -23,11 +23,8 @@ button{
     font-weight: bold;
     border-style: none;
 }
-.last{
+.operator{
     background-color: orange;
-}
-.first{
-    flex-grow: 2.25;
 }
 .display{
     display: flex;
